@@ -1,0 +1,16 @@
+{
+  "name": "Serial Bankruptcy Filing -- Limits, Consequences, and the Law",
+  "short_name": "serialfiler.org",
+  "description": "Free guide to serial bankruptcy filing restrictions. Filing bars, automatic stay limitations, and how courts handle repeat filers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
