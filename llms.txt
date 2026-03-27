@@ -1,17 +1,18 @@
 # serialfiler.org
 
-> Serial Bankruptcy Filing Patterns | serialfiler.org
+> Guide to serial bankruptcy filing -- waiting periods, restrictions, and repeat filer rules.
 
-Research data and analysis of repeat filer patterns in the federal courts
+serialfiler.org is a free, open-source educational resource about serial bankruptcy filing restrictions. Part of the Bankruptcy Transparency Network.
 
-This site is part of the Bankruptcy Transparency Network -- free, open-source bankruptcy information based on national federal court data.
+## Pages
 
-## Related Sites
-- https://1328f.com -- Free bankruptcy discharge screener
-- https://1328f.org -- Research platform
-- https://bankruptcymill.org -- Bankruptcy mill detection
-- https://serialfiler.org -- Serial filing restrictions
-- https://dischargebar.org -- Discharge waiting periods
+- https://serialfiler.org/: Overview of serial filing restrictions and waiting periods
+- https://serialfiler.org/waiting-periods.html: All waiting periods between bankruptcy filings -- complete chart
+- https://serialfiler.org/after-chapter-7.html: Filing again after Chapter 7 -- your options and timing
+- https://serialfiler.org/after-chapter-13.html: Filing again after Chapter 13 -- your options and timing
+- https://serialfiler.org/dismissed-vs-discharged.html: Dismissed vs discharged -- how outcome affects refiling
+- https://serialfiler.org/calculator.html: Free calculator -- when can you file bankruptcy again
 
 ## Contact
-- Ko-fi: https://ko-fi.com/ilikemath9999
+
+This site is maintained by volunteers. No legal advice is provided.
