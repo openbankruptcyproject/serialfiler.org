@@ -80,17 +80,20 @@ footer{background:var(--surface);border-top:1px solid var(--border);padding:2rem
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
-<nav aria-label="Main navigation">
-  <div class="nav-inner">
-    <a href="/" class="nav-brand">FileBankruptcyAgain.com</a>
-    <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="let n=this.nextElementSibling;n.classList.toggle('open');this.setAttribute('aria-expanded',n.classList.contains('open'))">&#9776;</button>
-    <div class="nav-links">
-      <a href="/waiting-periods.html">Waiting Periods</a>
-      <a href="/after-chapter-7.html" aria-current="page">After Chapter 7</a>
-      <a href="/after-chapter-13.html">After Chapter 13</a>
-      <a href="/calculator.html">Calculator</a>
-      <a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
-    </div>
+<nav role="navigation" aria-label="Site navigation">
+  <a href="/" class="site-name">serialfiler.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/after-chapter-13.html">After Ch.13</a>
+    <a href="/after-chapter-7.html" class="active">After Ch.7</a>
+    <a href="/calculator.html">Calculator</a>
+    <a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
+    <a href="/waiting-periods.html">Waiting Periods</a>
+    <a href="/automatic-stay-limits.html">Stay Limits</a>
+    <a href="/no-stay-at-all.html">No Stay</a>
+    <a href="/strategic-refiling.html">Strategic</a>
+    <a href="/data.html">Data</a>
   </div>
 </nav>
 
