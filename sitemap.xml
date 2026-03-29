@@ -1,53 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/2005/Sitemaps/sitemaps.org/schema/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://serialfiler.org/after-chapter-13.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/after-chapter-7.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/automatic-stay-limits.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/calculator.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/data.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/dismissed-vs-discharged.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/no-stay-at-all.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/strategic-refiling.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://serialfiler.org/waiting-periods.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
