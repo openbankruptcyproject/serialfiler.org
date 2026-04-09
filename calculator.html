@@ -74,6 +74,8 @@ strong{color:var(--text)}
 footer{background:var(--surface);border-top:1px solid var(--border);padding:2rem 1rem;text-align:center;font-size:0.85rem;color:var(--text-muted);margin-top:3rem}
 .network-links{display:flex;flex-wrap:wrap;justify-content:center;gap:0.75rem;margin-bottom:1rem}
 .network-links a{color:var(--accent);font-size:0.85rem}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
 {
@@ -190,6 +192,8 @@ footer{background:var(--surface);border-top:1px solid var(--border);padding:2rem
 </nav>
 
 <main id="main">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://serialfiler.org">Serial Bankruptcy Filers</a><span class="separator">&rsaquo;</span><span>When Can I File Bankruptcy Again?</span></nav>
+
   <h1>When Can I File Bankruptcy Again?</h1>
 
   <p>Use this free calculator to find your earliest eligible filing date. Enter the date your prior case was filed, the chapter of your prior case, and the chapter you want to file now. The calculator will tell you whether the waiting period has passed and, if not, when it will.</p>
@@ -488,5 +492,6 @@ function calculate() {
     <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=serialfiler.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
   </ul>
 </div>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>

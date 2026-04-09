@@ -1,18 +1,25 @@
-# serialfiler.org
+# Serial Bankruptcy Filer -- Risks & Consequences [2026]
+> What happens to serial bankruptcy filers? Reduced automatic stay, dismissal risk, and bad faith presumptions. 2026 guide.
 
-> Guide to serial bankruptcy filing -- waiting periods, restrictions, and repeat filer rules.
+## About
+serialfiler.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-serialfiler.org is a free, open-source educational resource about serial bankruptcy filing restrictions. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://serialfiler.org/: Overview of serial filing restrictions and waiting periods
-- https://serialfiler.org/waiting-periods.html: All waiting periods between bankruptcy filings -- complete chart
-- https://serialfiler.org/after-chapter-7.html: Filing again after Chapter 7 -- your options and timing
-- https://serialfiler.org/after-chapter-13.html: Filing again after Chapter 13 -- your options and timing
-- https://serialfiler.org/dismissed-vs-discharged.html: Dismissed vs discharged -- how outcome affects refiling
-- https://serialfiler.org/calculator.html: Free calculator -- when can you file bankruptcy again
+## Key Pages
+- Filing Again After Chapter 13: https://serialfiler.org/after-chapter-13.html
+- Filing Again After Chapter 7: https://serialfiler.org/after-chapter-7.html
+- Serial Filer Automatic Stay -- Only 30 Days Under 362(c)(3): https://serialfiler.org/automatic-stay-limits.html
+- When Can I File Bankruptcy Again? Date Calculator: https://serialfiler.org/calculator.html
+- How Many People File Bankruptcy Twice -- Repeat Filing Statistics: https://serialfiler.org/data.html
+- Dismissed vs Discharged: Can I Refile After a Bankruptcy Dismissal?: https://serialfiler.org/dismissed-vs-discharged.html
+- Serial Bankruptcy Filer -- Risks & Consequences: https://serialfiler.org/
+- Third Bankruptcy Filing -- No Automatic Stay at All Under 362(c)(4): https://serialfiler.org/no-stay-at-all.html
+- When Does Refiling Bankruptcy Make Sense?: https://serialfiler.org/strategic-refiling.html
+- Bankruptcy Waiting Periods: Every Chapter Combination: https://serialfiler.org/waiting-periods.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
