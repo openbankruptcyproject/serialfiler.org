@@ -25,6 +25,8 @@ No Stay
 Strategic
 Data
 
+Home›Serial Bankruptcy Filers›Filing Again After Chapter 13
+
 Filing Again After Chapter 13
 
 Chapter 13 cases have the highest repeat-filing rate of any bankruptcy chapter. Whether your prior Chapter 13 ended in a discharge, a dismissal, or a conversion, your options for filing again depend on how that case ended and when it was filed.
@@ -91,11 +93,11 @@ One prior dismissal in the last year: The stay automatically terminates after 30
 
 Two or more prior dismissals in the last year: You get no automatic stay at all unless you file a motion to impose it.
 
-This is critical for Chapter 13 filers because the automatic stay is often the primary reason for filing -- it stops foreclosures, repossessions, and wage garnishments. If your stay expires or never takes effect, you lose that protection.
+This is critical for Chapter 13 filers because the automatic stay is often the primary reason for filing - it stops foreclosures, repossessions, and wage garnishments. If your stay expires or never takes effect, you lose that protection.
 
 The Serial Filing Problem
 
-Some people file Chapter 13 cases repeatedly -- filing, getting dismissed, filing again, getting dismissed again. Courts and trustees refer to this pattern as "serial filing." While the Bankruptcy Code does not explicitly prohibit serial filing, courts can and do take action:
+Some people file Chapter 13 cases repeatedly - filing, getting dismissed, filing again, getting dismissed again. Courts and trustees refer to this pattern as "serial filing." While the Bankruptcy Code does not explicitly prohibit serial filing, courts can and do take action:
 
 Filing bars: Courts can impose filing bars as a condition of dismissal, preventing you from filing a new case for a specified period (often 180 days to 2 years).
 
@@ -130,20 +132,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -194,7 +196,7 @@ automaticstay.org
 bankruptcycost.com
 bankruptcydismissed.com
 
-Part of the Open Bankruptcy Project -- free tools for people navigating bankruptcy.
+Part of the Open Bankruptcy Project - free tools for people navigating bankruptcy.
 
 © 2024 FileBankruptcyAgain.com. Open data, open source.
 
@@ -253,6 +255,8 @@ No Stay
 Strategic
 Data
 
+Home›Serial Bankruptcy Filers›Filing Again After Chapter 7
+
 Filing Again After Chapter 7
 
 If your last bankruptcy was a Chapter 7 case, you have two main paths forward: filing another Chapter 7 or filing a Chapter 13. Each path has a different waiting period, and understanding the difference can make or break your strategy.
@@ -277,17 +281,17 @@ This means that if the 8-year bar for another Chapter 7 has not passed, you may 
 
 The Chapter 20 Strategy
 
-Some people who received a Chapter 7 discharge file a Chapter 13 case immediately afterward -- even within the 4-year window. This is informally called a "Chapter 20" case (7 + 13 = 20). In a Chapter 20 scenario, you know going in that you will not receive a Chapter 13 discharge because the 4-year bar under Section 1328(f)(1) has not passed.
+Some people who received a Chapter 7 discharge file a Chapter 13 case immediately afterward - even within the 4-year window. This is informally called a "Chapter 20" case (7 + 13 = 20). In a Chapter 20 scenario, you know going in that you will not receive a Chapter 13 discharge because the 4-year bar under Section 1328(f)(1) has not passed.
 
 Why would anyone do this? Because even without a discharge, a Chapter 13 case provides:
 
-Automatic stay protection -- creditors must stop collection efforts while the case is open
+Automatic stay protection - creditors must stop collection efforts while the case is open
 
-Mortgage cure -- you can cure mortgage arrears through the Chapter 13 plan
+Mortgage cure - you can cure mortgage arrears through the Chapter 13 plan
 
-Car loan cramdown -- you may be able to reduce your car loan to the vehicle's value
+Car loan cramdown - you may be able to reduce your car loan to the vehicle's value
 
-Tax debt repayment -- structured repayment of priority tax obligations
+Tax debt repayment - structured repayment of priority tax obligations
 
 The Chapter 7 discharge eliminates unsecured debts (credit cards, medical bills), and the Chapter 13 plan handles the secured debts that survived. Courts generally permit this strategy, although some judges scrutinize Chapter 20 cases more closely.
 
@@ -338,20 +342,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -402,7 +406,7 @@ automaticstay.org
 bankruptcycost.com
 bankruptcydismissed.com
 
-Part of the Open Bankruptcy Project -- free tools for people navigating bankruptcy.
+Part of the Open Bankruptcy Project - free tools for people navigating bankruptcy.
 
 © 2024 FileBankruptcyAgain.com. Open data, open source.
 
@@ -442,7 +446,7 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 ---
 
-## Serial Filer Automatic Stay -- Only 30 Days Under 362(c)(3)
+## Serial Filer Automatic Stay - Only 30 Days Under 362(c)(3)
 Source: https://serialfiler.org/automatic-stay-limits.html
 
 Skip to main content
@@ -463,7 +467,7 @@ Data
 
 Automatic Stay Limits for Serial Filers
 
-Section 362(c)(3) -- your stay may expire in 30 days if you had a prior case pending
+Section 362(c)(3) - your stay may expire in 30 days if you had a prior case pending
 
 Network › Serial Filing › Stay Limits
 
@@ -471,11 +475,11 @@ The 30-Day Stay Under 362(c)(3)
 
 Section 362(c)(3) provides that if a debtor had one prior bankruptcy case pending and dismissed within the 1-year period before the current filing, the automatic stay in the new case terminates after 30 days unless the court extends it.
 
-This is one of the most significant consequences of serial filing. The automatic stay -- the powerful injunction that stops all creditor collection, foreclosure, garnishment, and lawsuits -- is designed to give debtors breathing room. But Congress limited this protection for repeat filers who it presumed were filing for delay rather than legitimate relief.
+This is one of the most significant consequences of serial filing. The automatic stay - the powerful injunction that stops all creditor collection, foreclosure, garnishment, and lawsuits - is designed to give debtors breathing room. But Congress limited this protection for repeat filers who it presumed were filing for delay rather than legitimate relief.
 
 How to Extend the Stay
 
-To extend the stay beyond 30 days, you must file a motion and prove by clear and convincing evidence that the new case was filed in good faith. The motion must be filed within the 30-day window -- if the stay expires, you must file a motion to reimpose it instead.
+To extend the stay beyond 30 days, you must file a motion and prove by clear and convincing evidence that the new case was filed in good faith. The motion must be filed within the 30-day window - if the stay expires, you must file a motion to reimpose it instead.
 
 The court considers the "totality of circumstances" to determine good faith. Favorable factors include:
 
@@ -518,13 +522,13 @@ Subscribe
 
 Related Resources
 
-automaticstay.org -- Complete automatic stay guide
+automaticstay.org - Complete automatic stay guide
 
-No Stay at All -- When 2+ prior cases mean no stay under 362(c)(4)
+No Stay at All - When 2+ prior cases mean no stay under 362(c)(4)
 
-109g.org -- The 180-day filing bar under Section 109(g)
+109g.org - The 180-day filing bar under Section 109(g)
 
-dischargebar.org -- All discharge bar timing rules
+dischargebar.org - All discharge bar timing rules
 
 Related Guides
 
@@ -534,20 +538,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -653,6 +657,8 @@ No Stay
 Strategic
 Data
 
+Home›Serial Bankruptcy Filers›When Can I File Bankruptcy Again?
+
 When Can I File Bankruptcy Again?
 
 Use this free calculator to find your earliest eligible filing date. Enter the date your prior case was filed, the chapter of your prior case, and the chapter you want to file now. The calculator will tell you whether the waiting period has passed and, if not, when it will.
@@ -661,7 +667,7 @@ Bankruptcy Refiling Calculator
 
 Prior Case Filing Date
 
-The date you filed your prior bankruptcy petition -- not the discharge date.
+The date you filed your prior bankruptcy petition - not the discharge date.
 
 Prior Case Chapter
 
@@ -725,20 +731,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -789,7 +795,7 @@ automaticstay.org
 bankruptcycost.com
 bankruptcydismissed.com
 
-Part of the Open Bankruptcy Project -- free tools for people navigating bankruptcy.
+Part of the Open Bankruptcy Project - free tools for people navigating bankruptcy.
 
 © 2024 FileBankruptcyAgain.com. Open data, open source.
 
@@ -829,7 +835,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## How Many People File Bankruptcy Twice -- Repeat Filing Statistics
+## How Many People File Bankruptcy Twice - Repeat Filing Statistics
 Source: https://serialfiler.org/data.html
 
 Skip to main content
@@ -860,11 +866,11 @@ Based on analysis of the FJC Integrated Database and PACER court records, approx
 
 Key findings from federal court data:
 
-Chapter 13 has a higher repeat rate than Chapter 7 -- Because Chapter 13 plans fail at high rates (approximately 33-67% nationally), many Chapter 13 debtors refile after dismissal. This is not a new filing by a serial abuser -- it is often the same person trying again to complete their plan.
+Chapter 13 has a higher repeat rate than Chapter 7 - Because Chapter 13 plans fail at high rates (approximately 33-67% nationally), many Chapter 13 debtors refile after dismissal. This is not a new filing by a serial abuser - it is often the same person trying again to complete their plan.
 
-Repeat rates vary by district -- Some districts see prior-filer rates above 15%, while others are below 5%. This variation reflects local economic conditions, attorney practices, and court culture.
+Repeat rates vary by district - Some districts see prior-filer rates above 15%, while others are below 5%. This variation reflects local economic conditions, attorney practices, and court culture.
 
-The rate has been relatively stable since BAPCPA -- The 2005 bankruptcy reform law (BAPCPA) added the automatic stay limitations and discharge bars, but repeat filing rates have not declined dramatically.
+The rate has been relatively stable since BAPCPA - The 2005 bankruptcy reform law (BAPCPA) added the automatic stay limitations and discharge bars, but repeat filing rates have not declined dramatically.
 
 Why Repeat Filing Happens
 
@@ -880,17 +886,17 @@ Job loss, medical emergencies, divorce, and other life changes can create new fi
 
 Chapter conversion
 
-Some repeat filings are actually conversions -- a debtor who filed Chapter 13, had the case dismissed, and then files Chapter 7 (or vice versa). The FJC database may record these as separate cases.
+Some repeat filings are actually conversions - a debtor who filed Chapter 13, had the case dismissed, and then files Chapter 7 (or vice versa). The FJC database may record these as separate cases.
 
 What the Research Says
 
 Academic research on serial filing includes:
 
-Norberg and Velkey (2006) -- Found that prior filers in Chapter 13 had lower completion rates, suggesting structural barriers to plan success for repeat filers
+Norberg and Velkey (2006) - Found that prior filers in Chapter 13 had lower completion rates, suggesting structural barriers to plan success for repeat filers
 
-Hynes (2025) -- Analyzed prior-filer rates using FJC data, finding approximately 27.4% of Chapter 13 filers in some districts had prior cases
+Hynes (2025) - Analyzed prior-filer rates using FJC data, finding approximately 27.4% of Chapter 13 filers in some districts had prior cases
 
-Porter (2011) -- Documented the "revolving door" of Chapter 13, where dismissed debtors refile in a pattern driven more by desperation than strategic abuse
+Porter (2011) - Documented the "revolving door" of Chapter 13, where dismissed debtors refile in a pattern driven more by desperation than strategic abuse
 
 Key insight: Most repeat filing is not abuse. It is a consequence of Chapter 13's high failure rate combined with the ongoing financial difficulties that led to bankruptcy in the first place. Understanding this distinction matters for policy discussions about serial filing.
 
@@ -921,13 +927,13 @@ Subscribe
 
 Related Resources
 
-1328f.org -- Full research platform with national data
+1328f.org - Full research platform with national data
 
-dischargebar.org -- Discharge bar timing rules
+dischargebar.org - Discharge bar timing rules
 
-dismissedbankruptcy.org -- Dismissed bankruptcy and next steps
+dismissedbankruptcy.org - Dismissed bankruptcy and next steps
 
-109g.org -- The 180-day filing bar
+109g.org - The 180-day filing bar
 
 Related Guides
 
@@ -937,20 +943,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -1056,7 +1062,9 @@ No Stay
 Strategic
 Data
 
-My Last Case Was Dismissed, Not Discharged -- Can I Refile?
+Home›Serial Bankruptcy Filers›My Last Case Was Dismissed, Not Discharged - Can I Refile?
+
+My Last Case Was Dismissed, Not Discharged - Can I Refile?
 
 If your last bankruptcy case was dismissed rather than discharged, you are in a fundamentally different situation than someone whose case ended with a discharge. The discharge waiting periods (8 years, 6 years, 4 years, 2 years) do not apply to you. But there are still rules you need to understand before filing again.
 
@@ -1064,7 +1072,7 @@ Dismissed vs. Discharged: The Critical Difference
 
 Dismissed
 
-Your case was closed without completing the bankruptcy process. No debts were eliminated. You are back where you started -- creditors can resume collection.
+Your case was closed without completing the bankruptcy process. No debts were eliminated. You are back where you started - creditors can resume collection.
 
 No debts were discharged
 
@@ -1118,7 +1126,7 @@ Even if the 109(g) bar does not apply and you are free to file a new case, the a
 
 One Prior Case Pending and Dismissed in Last Year
 
-If you had one prior case that was pending within the preceding year and was dismissed, the automatic stay in your new case automatically terminates after 30 days unless you file a motion to extend it. To get the stay extended, you must show the court that the new case was filed in good faith -- meaning there has been a substantial change in your financial affairs or other good cause.
+If you had one prior case that was pending within the preceding year and was dismissed, the automatic stay in your new case automatically terminates after 30 days unless you file a motion to extend it. To get the stay extended, you must show the court that the new case was filed in good faith - meaning there has been a substantial change in your financial affairs or other good cause.
 
 Two or More Prior Cases Dismissed in Last Year
 
@@ -1136,7 +1144,7 @@ If your Chapter 7 was dismissed because you did not pass the means test (your in
 
 Voluntary Dismissal
 
-If you voluntarily asked to dismiss your own case, you can generally refile. But check whether a creditor had filed a motion for relief from stay before you dismissed -- if so, the 109(g) 180-day bar may apply.
+If you voluntarily asked to dismiss your own case, you can generally refile. But check whether a creditor had filed a motion for relief from stay before you dismissed - if so, the 109(g) 180-day bar may apply.
 
 Dismissed with Prejudice
 
@@ -1173,20 +1181,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -1237,7 +1245,7 @@ automaticstay.org
 bankruptcycost.com
 bankruptcydismissed.com
 
-Part of the Open Bankruptcy Project -- free tools for people navigating bankruptcy.
+Part of the Open Bankruptcy Project - free tools for people navigating bankruptcy.
 
 © 2024 FileBankruptcyAgain.com. Open data, open source.
 
@@ -1277,7 +1285,7 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 ---
 
-## Serial Bankruptcy Filer -- Risks & Consequences [2026]
+## Serial Bankruptcy Filer - Risks & Consequences [2026]
 Source: https://serialfiler.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1298,7 +1306,7 @@ No Stay
 Strategic
 Data
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Serial Bankruptcy Filer
 
@@ -1308,13 +1316,13 @@ Network › Serial Bankruptcy Filing Patterns
 
 About This Site
 
-Serial filing -- the pattern of filing multiple bankruptcy cases in sequence, often with each case ending in dismissal before a new one is filed -- is one of the most studied and least understood phenomena in consumer bankruptcy. Some serial filers are genuinely struggling debtors who need multiple attempts to complete a plan. Others are using the automatic stay protection in bankruptcy as a tactical delay against foreclosure or eviction with no intention of completing the bankruptcy process.
+Serial filing - the pattern of filing multiple bankruptcy cases in sequence, often with each case ending in dismissal before a new one is filed - is one of the most studied and least understood phenomena in consumer bankruptcy. Some serial filers are genuinely struggling debtors who need multiple attempts to complete a plan. Others are using the automatic stay protection in bankruptcy as a tactical delay against foreclosure or eviction with no intention of completing the bankruptcy process.
 
 This site will present research data on serial filing patterns across federal bankruptcy courts, including filing frequency, dismissal rates by attempt number, geographic concentration, and the relationship between serial filing and attorney representation. We use public PACER data and FJC Integrated Database records to identify patterns at scale.
 
 We will also cover the legal framework for serial filing, including Section 109(g) refiling bars, Section 362(c)(3) and (c)(4) stay limitations, and the court's power under Section 105(a) to impose filing bars on abusive serial filers.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Frequently Asked Questions
 
@@ -1359,7 +1367,7 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Stay updated on new datasets and research findings
 
@@ -1369,24 +1377,24 @@ Subscribe
 
 Related Resources
 
-The 180-Day Filing Bar -- When you must wait before filing again under Section 109(g)
+The 180-Day Filing Bar - When you must wait before filing again under Section 109(g)
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-Dismissed Bankruptcy -- What happens when your case is dismissed and next steps
+Dismissed Bankruptcy - What happens when your case is dismissed and next steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -1428,7 +1436,7 @@ Section 109(g) Filing Restrictions
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Can I Keep My Car?
 
@@ -1590,6 +1598,7 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
@@ -1597,6 +1606,8 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 Privacy | Terms | Open Bankruptcy Project
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1612,7 +1623,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Third Bankruptcy Filing -- No Automatic Stay at All Under 362(c)(4)
+## Third Bankruptcy Filing - No Automatic Stay at All Under 362(c)(4)
 Source: https://serialfiler.org/no-stay-at-all.html
 
 Skip to main content
@@ -1631,9 +1642,9 @@ No Stay
 Strategic
 Data
 
-Third Filing -- No Automatic Stay at All
+Third Filing - No Automatic Stay at All
 
-Section 362(c)(4) -- the harshest consequence of serial filing
+Section 362(c)(4) - the harshest consequence of serial filing
 
 Network › Serial Filing › No Stay
 
@@ -1643,7 +1654,7 @@ Section 362(c)(4) provides that if a debtor had two or more bankruptcy cases pen
 
 This is the nuclear option. Without an automatic stay, creditors can continue foreclosure, repossession, wage garnishment, lawsuits, and all other collection activity as if the bankruptcy had never been filed. The filing itself provides zero protection.
 
-No automatic protection. Unlike the 30-day limited stay under 362(c)(3), the 362(c)(4) provision means the stay simply does not exist. Creditors do not have to do anything -- they can proceed as normal.
+No automatic protection. Unlike the 30-day limited stay under 362(c)(3), the 362(c)(4) provision means the stay simply does not exist. Creditors do not have to do anything - they can proceed as normal.
 
 How to Get a Stay Imposed
 
@@ -1671,11 +1682,11 @@ Strategic Considerations
 
 If you are facing a 362(c)(4) situation, consult with a bankruptcy attorney before filing. The motion to impose a stay must be filed quickly (within 30 days) and must be supported by evidence. Some strategies include:
 
-Wait until the 1-year window closes -- If possible, wait until 1 year has passed since your last two cases were pending
+Wait until the 1-year window closes - If possible, wait until 1 year has passed since your last two cases were pending
 
-Prepare the motion in advance -- Have the motion to impose a stay ready to file simultaneously with the petition
+Prepare the motion in advance - Have the motion to impose a stay ready to file simultaneously with the petition
 
-Document changed circumstances -- Gather evidence of new employment, changed income, medical recovery, or other changes
+Document changed circumstances - Gather evidence of new employment, changed income, medical recovery, or other changes
 
 Related Tools
 
@@ -1690,13 +1701,13 @@ Subscribe
 
 Related Resources
 
-automaticstay.org -- Complete automatic stay analysis
+automaticstay.org - Complete automatic stay analysis
 
-30-Day Stay -- The limited stay for one prior case under 362(c)(3)
+30-Day Stay - The limited stay for one prior case under 362(c)(3)
 
-109g.org -- The 180-day filing bar
+109g.org - The 180-day filing bar
 
-dismissedbankruptcy.org -- What happens after dismissal
+dismissedbankruptcy.org - What happens after dismissal
 
 Related Guides
 
@@ -1706,20 +1717,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -1827,7 +1838,7 @@ Data
 
 When Does Refiling Make Sense?
 
-Legitimate reasons to file bankruptcy again -- not all repeat filings are abuse
+Legitimate reasons to file bankruptcy again - not all repeat filings are abuse
 
 Network › Serial Filing › Strategic Refiling
 
@@ -1863,13 +1874,13 @@ What Courts Look For
 
 When evaluating a repeat filing, courts consider:
 
-Changed circumstances -- Is there a material difference between your situation now and when you filed before?
+Changed circumstances - Is there a material difference between your situation now and when you filed before?
 
-Ability to complete -- Can you realistically complete a Chapter 13 plan or qualify for Chapter 7 discharge?
+Ability to complete - Can you realistically complete a Chapter 13 plan or qualify for Chapter 7 discharge?
 
-Creditor impact -- Will creditors receive meaningful payment or is this purely a delay tactic?
+Creditor impact - Will creditors receive meaningful payment or is this purely a delay tactic?
 
-Pattern of filing -- Have you filed multiple times with each case failing for the same reason?
+Pattern of filing - Have you filed multiple times with each case failing for the same reason?
 
 Good news: A single prior dismissal followed by a good-faith refiling is very common and rarely draws judicial skepticism. The problems arise with three or more filings, or when the same issues (missed payments, missing documents) cause repeated dismissals.
 
@@ -1898,13 +1909,13 @@ Subscribe
 
 Related Resources
 
-dischargebar.org -- All discharge bar timing rules
+dischargebar.org - All discharge bar timing rules
 
-109g.org -- The 180-day filing bar
+109g.org - The 180-day filing bar
 
-dismissedbankruptcy.org -- Options after dismissal
+dismissedbankruptcy.org - Options after dismissal
 
-automaticstay.org -- Automatic stay for repeat filers
+automaticstay.org - Automatic stay for repeat filers
 
 Related Guides
 
@@ -1914,20 +1925,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -2033,6 +2044,8 @@ No Stay
 Strategic
 Data
 
+Home›Serial Bankruptcy Filers›Bankruptcy Waiting Periods: Every Chapter Combination
+
 Bankruptcy Waiting Periods: Every Chapter Combination
 
 The Bankruptcy Code contains three separate statutes that control how long you must wait between receiving a discharge in one case and receiving a discharge in a new case. This page explains each statute in detail, including the exact language, how courts measure the time periods, and the exceptions that apply.
@@ -2059,7 +2072,7 @@ Chapter 12Chapter 76 years727(a)(9)Filing to filing
 
 The Three Statutes
 
-11 U.S.C. Section 727(a)(8) -- The 8-Year Bar
+11 U.S.C. Section 727(a)(8) - The 8-Year Bar
 
 727(a)(8): "The court shall grant the debtor a discharge, unless the debtor has been granted a discharge under this section... in a case commenced within 8 years before the date of the filing of the petition."
 
@@ -2069,7 +2082,7 @@ Example: You filed Chapter 7 on January 15, 2018. The earliest you can file a ne
 
 There are no exceptions to this rule. If the 8-year period has not passed, the court must deny your Chapter 7 discharge. Learn more at 727a8.com.
 
-11 U.S.C. Section 727(a)(9) -- The 6-Year Bar
+11 U.S.C. Section 727(a)(9) - The 6-Year Bar
 
 727(a)(9): "The court shall grant the debtor a discharge, unless the debtor has been granted a discharge under section 1228 or 1328... in a case commenced within 6 years before the date of the filing of the petition, unless payments under the plan... totaled 100 percent... or 70 percent... and the plan was proposed in good faith and was the debtor's best effort."
 
@@ -2081,7 +2094,7 @@ This statute prevents a Chapter 7 discharge if you received a Chapter 13 (or Cha
 
 Example: You filed Chapter 13 on March 1, 2020 and received a discharge. Your plan paid unsecured creditors 45%. You cannot file Chapter 7 until March 1, 2026. But if your plan had paid 100%, you could file Chapter 7 at any time.
 
-11 U.S.C. Section 1328(f) -- The 4-Year and 2-Year Bars
+11 U.S.C. Section 1328(f) - The 4-Year and 2-Year Bars
 
 1328(f)(1): "...the court shall not grant a discharge... if the debtor has received a discharge... in a case filed under chapter 7, 11, or 12... during the 4-year period preceding the date of the order for relief..."
 
@@ -2089,9 +2102,9 @@ Example: You filed Chapter 13 on March 1, 2020 and received a discharge. Your pl
 
 Section 1328(f) governs discharge eligibility in Chapter 13 cases. It has two subsections:
 
-1328(f)(1) -- 4 years: You cannot receive a Chapter 13 discharge if you received a discharge under Chapter 7, 11, or 12 in a case filed within the preceding 4 years.
+1328(f)(1) - 4 years: You cannot receive a Chapter 13 discharge if you received a discharge under Chapter 7, 11, or 12 in a case filed within the preceding 4 years.
 
-1328(f)(2) -- 2 years: You cannot receive a Chapter 13 discharge if you received a Chapter 13 discharge in a case filed within the preceding 2 years.
+1328(f)(2) - 2 years: You cannot receive a Chapter 13 discharge if you received a Chapter 13 discharge in a case filed within the preceding 2 years.
 
 There are no exceptions to Section 1328(f). If the time period has not elapsed, the court cannot grant a Chapter 13 discharge. You can still file the case and benefit from the automatic stay and plan treatment, but you will not receive a discharge at the end.
 
@@ -2103,7 +2116,7 @@ All three statutes measure from filing date to filing date (technically, the dat
 
 This means the effective waiting period is actually shorter than it appears, because the discharge typically comes 3-4 months after filing in a Chapter 7 case, and 3-5 years after filing in a Chapter 13 case. If you received a Chapter 7 discharge 7.5 years ago, you may already be past the 8-year bar if your case was filed more than 8 years ago.
 
-Tip: To find out when you filed your prior case, check your PACER records, contact the bankruptcy court clerk, or look at the petition date on your prior case documents. Do not use the discharge date -- use the filing date.
+Tip: To find out when you filed your prior case, check your PACER records, contact the bankruptcy court clerk, or look at the petition date on your prior case documents. Do not use the discharge date - use the filing date.
 
 What About Chapter 11 and Chapter 12?
 
@@ -2128,20 +2141,20 @@ Section 362 Automatic Stay
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on repeat bankruptcy filings and filing bars:
 
 11 U.S.C. Section 727(a)(8)-(9)
-Cornell LII -- Chapter 7 filing bars
+Cornell LII - Chapter 7 filing bars
 
 11 U.S.C. Section 1328(f)
-Cornell LII -- Chapter 13 filing bars
+Cornell LII - Chapter 13 filing bars
 
 11 U.S.C. Section 109(g)
-Cornell LII -- 180-day bar
+Cornell LII - 180-day bar
 
 Bankruptcy Basics
 USCourts.gov
@@ -2192,7 +2205,7 @@ automaticstay.org
 bankruptcycost.com
 bankruptcydismissed.com
 
-Part of the Open Bankruptcy Project -- free tools for people navigating bankruptcy.
+Part of the Open Bankruptcy Project - free tools for people navigating bankruptcy.
 
 © 2024 FileBankruptcyAgain.com. Open data, open source.
 
@@ -2229,3 +2242,75 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+---
+
+## Privacy Policy - serialfiler.org
+Source: https://serialfiler.org/privacy.html
+
+serialfiler.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

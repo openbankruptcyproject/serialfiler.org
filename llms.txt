@@ -1,4 +1,4 @@
-# Serial Bankruptcy Filer -- Risks & Consequences [2026]
+# Serial Bankruptcy Filer - Risks & Consequences [2026]
 > What happens to serial bankruptcy filers? Reduced automatic stay, dismissal risk, and bad faith presumptions. 2026 guide.
 
 ## About
@@ -7,14 +7,15 @@ serialfiler.org is part of the Open Bankruptcy Project (openbankruptcyproject.or
 ## Key Pages
 - Filing Again After Chapter 13: https://serialfiler.org/after-chapter-13.html
 - Filing Again After Chapter 7: https://serialfiler.org/after-chapter-7.html
-- Serial Filer Automatic Stay -- Only 30 Days Under 362(c)(3): https://serialfiler.org/automatic-stay-limits.html
+- Serial Filer Automatic Stay - Only 30 Days Under 362(c)(3): https://serialfiler.org/automatic-stay-limits.html
 - When Can I File Bankruptcy Again? Date Calculator: https://serialfiler.org/calculator.html
-- How Many People File Bankruptcy Twice -- Repeat Filing Statistics: https://serialfiler.org/data.html
+- How Many People File Bankruptcy Twice - Repeat Filing Statistics: https://serialfiler.org/data.html
 - Dismissed vs Discharged: Can I Refile After a Bankruptcy Dismissal?: https://serialfiler.org/dismissed-vs-discharged.html
-- Serial Bankruptcy Filer -- Risks & Consequences: https://serialfiler.org/
-- Third Bankruptcy Filing -- No Automatic Stay at All Under 362(c)(4): https://serialfiler.org/no-stay-at-all.html
+- Serial Bankruptcy Filer - Risks & Consequences: https://serialfiler.org/
+- Third Bankruptcy Filing - No Automatic Stay at All Under 362(c)(4): https://serialfiler.org/no-stay-at-all.html
 - When Does Refiling Bankruptcy Make Sense?: https://serialfiler.org/strategic-refiling.html
 - Bankruptcy Waiting Periods: Every Chapter Combination: https://serialfiler.org/waiting-periods.html
+- Privacy Policy: https://serialfiler.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
