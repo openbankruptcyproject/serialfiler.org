@@ -122,7 +122,7 @@ Open the Calculator
 You can also screen your prior case at 1328f.com to verify discharge eligibility across all 94 federal districts.
 
 This site provides general information about bankruptcy law and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Related Guides
 
@@ -332,7 +332,7 @@ If you want to check whether your prior discharge appears in court records, the 
 For a complete breakdown of every waiting period, including exceptions, see our waiting periods guide.
 
 This site provides general information about bankruptcy law and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Related Guides
 
@@ -614,7 +614,7 @@ dismissedbankruptcy.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -721,7 +721,7 @@ For a complete analysis of your situation, consult with a bankruptcy attorney. F
 If you want to check whether your prior case appears in court records, you can use the free screener at 1328f.com, which covers all 94 federal bankruptcy districts.
 
 This calculator provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this tool. The results are based on federal bankruptcy statutes and do not account for local rules, court orders, or individual circumstances. Consult a licensed attorney for advice about your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Related Guides
 
@@ -1019,7 +1019,7 @@ dismissedbankruptcy.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1171,7 +1171,7 @@ Open the Calculator
 For a complete overview of all waiting periods (for cases that were discharged), see our waiting periods guide. For chapter-specific guidance, see filing after Chapter 7 or filing after Chapter 13.
 
 This site provides general information about bankruptcy law and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Related Guides
 
@@ -1601,7 +1601,7 @@ GitHub
 Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1793,7 +1793,7 @@ dismissedbankruptcy.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -2001,7 +2001,7 @@ dismissedbankruptcy.org
 GitHub
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -2131,7 +2131,7 @@ Use our free date calculator to determine your earliest eligible filing date. En
 If you had a prior discharge and want to check whether it shows up in court records, you can screen your case at 1328f.com for free.
 
 This site provides general information about bankruptcy law and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Related Guides
 
@@ -2301,7 +2301,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
